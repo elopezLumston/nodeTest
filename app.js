@@ -7,6 +7,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
+        <meta charset="UTF-8">
         <title>URL Parameter Example</title>
     </head>
     <body>
